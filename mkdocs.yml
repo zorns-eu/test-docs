@@ -1,0 +1,8 @@
+site_name: jzorn-documentation-test
+site_description: test docs
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
